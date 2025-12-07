@@ -1,0 +1,2 @@
+# vnedrenie
+laba_6
